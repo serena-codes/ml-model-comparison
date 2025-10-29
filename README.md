@@ -48,7 +48,7 @@ Vergleich der Vorhersagegenauigkeit (MSE) von:
 
 ## 📷 Beispiel-Visualisierung
 
-![Diagramm der Vorhersagen mit LinearRegression](screenshot.png)
+![Diagramm der Vorhersagen mit LinearRegression](Screenshot.png)
 
 ## 👩‍💻 Autor
 
@@ -57,3 +57,4 @@ Erstellt von Serena – mit viel Lernfreude 😄
 ## 📄 Lizenz
 
 Dieses Projekt kann frei verwendet und angepasst werden – für Lernzwecke, Spaß und persönliche Weiterentwicklung.
+
